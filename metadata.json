@@ -1,0 +1,6 @@
+{
+  "name": "Veo Video Generator",
+  "description": "Generate videos from text prompts using the Veo model. Supports 4 concurrent generations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
